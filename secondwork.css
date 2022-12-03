@@ -1,0 +1,28 @@
+* {
+    font-size: 15px;
+}
+
+p {
+    color: red;
+}
+#gbemmy {
+    font-size: 18px;
+    color: brown;
+}
+.coding {
+    font-size: 18px;
+    color: initial;
+}
+ul, ol {
+    font-style: italic;
+    color: initial;
+} 
+section dt{
+    text-transform: lowercase;
+}
+#gbems > div {
+    text-transform: uppercase;
+}
+div ~ form { text-transform: uppercase;
+
+}
